@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/a.gzouly/Desktop/Maze-Project",
-      "program": "c:/Users/a.gzouly/Desktop/Maze-Project/build/Debug/outDebug",
+      "cwd": "c:/Users/a.gzouly/Maze-Project/src",
+      "program": "c:/Users/a.gzouly/Maze-Project/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
