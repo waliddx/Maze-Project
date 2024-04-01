@@ -3,6 +3,7 @@
 
 # ignore sdl2 folders
 /SDL2
+/src
 
 # Prerequisites
 *.d
