@@ -2,8 +2,7 @@
 .vscode
 
 # ignore sdl2 folders
-/SDL2
-src
+/src
 
 # Prerequisites
 *.d
