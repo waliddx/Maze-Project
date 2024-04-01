@@ -1,7 +1,5 @@
-# ignore visual studio folders
+# ignore folders
 .vscode/
-
-# ignore sdl2 folders
 src/
 
 # Prerequisites

@@ -19,9 +19,6 @@ It is a cross-platform development library designed to provide low-level access 
 
 $ gcc work/*.c -I ./src/include -L ./src/lib -Wall -Werror -Wextra -pedantic -lmingw32 -lSDL2main -lSDL2 -o maze;
 
-# FlowChart:
-![](image.png)
-
 # Author ✒️:
 - walid gzouly
 
