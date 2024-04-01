@@ -1,14 +1,14 @@
 #OBJS specifies which files to compile as part of the project
-OBJS = src/*.c
+OBJS = work/*.c
 
 #CC specifies which compiler we're using
 CC = gcc
 
 #INCLUDE_PATHS specifies the additional include paths we'll need
-INCLUDE_PATHS = -ISDL2/include/SDL2
+INCLUDE_PATHS = -I ./src/include
 
 #LIBRARY_PATHS specifies the additional library paths we'll need
-LIBRARY_PATHS = -LSDL2/lib
+LIBRARY_PATHS = -L ./src/lib
 
 #COMPILER_FLAGS specifies the additional compilation options we're using
 # -w suppresses all warnings
